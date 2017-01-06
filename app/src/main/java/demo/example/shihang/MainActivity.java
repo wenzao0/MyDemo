@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void test(){
         Log.d("****","123");
+        Log.d("****","456");
     }
 
     @Override
